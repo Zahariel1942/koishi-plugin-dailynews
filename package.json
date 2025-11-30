@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-dailynews",
   "description": "定时发送每日新闻的 Koishi 插件，使用 60s API 获取新闻内容",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "contributors": [
